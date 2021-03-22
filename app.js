@@ -17,7 +17,7 @@ app.use(express.static('./public'))
 
 app.get('/', (req, res) => {// reenderizando vista home.hbs con handlebars
     res.render('home', {
-        nombre: 'Antonio',
+        nombre: 'Antonio Santana',
         titulo: 'Ejemplo Servidor Node Utilizando express & handlebars Templates'// definiendo argumentos para utilizar en el html
     });
 })
