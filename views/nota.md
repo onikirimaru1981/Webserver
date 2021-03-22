@@ -1,0 +1,1 @@
+# La carpeta view se requiere cuando desemos reenderizar un template con handlebars

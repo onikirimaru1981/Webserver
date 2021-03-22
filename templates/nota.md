@@ -1,0 +1,1 @@
+# La carpeta templates basicamente son mis plantillas de html para usar ern la carpeta views
